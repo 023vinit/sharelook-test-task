@@ -1,8 +1,6 @@
 # sharelook-test-task
 sample test app for sharelook
 
-task assignments given by introcept
-
 clone the project
 make sure to run 
 npm install OR yarn install
